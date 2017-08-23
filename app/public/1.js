@@ -3,6 +3,7 @@
  */
 window.xxx = function (value) {
   console.log(value)
+  console.log(value)
 }
 
 var script = document.createElement('script')
